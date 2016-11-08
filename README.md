@@ -5,7 +5,7 @@ npm update
 
 ## run
 
-npm start
+npm run start
 
 ## view
 
